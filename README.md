@@ -4,6 +4,7 @@ My dear Anushree, this is a little labour of love I undertook to remind me how m
 we have left to go before we see each other again in person. The colour scheme it uses
 is comprised of all the colours that have played a significant role in our time together. 
 
+Made with lots of :heart: for my Girlfriend.
 ## Colours
 
 ### Cherry-Berry-Banana
@@ -28,5 +29,3 @@ is comprised of all the colours that have played a significant role in our time 
 ## Next reunion on:
 
 8:30AM GMT(+00:00), 22nd December 2019
-
-Made with lots of :heart: for my dearest girlfriend
