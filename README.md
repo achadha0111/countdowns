@@ -28,3 +28,5 @@ is comprised of all the colours that have played a significant role in our time 
 ## Next reunion on:
 
 8:30AM GMT(+00:00), 22nd December 2019
+
+Made with lots of :heart: for my dearest girlfriend
