@@ -4,7 +4,7 @@
 
     <div id="app">
       <h1> We see each other again in: </h1>
-      <countdown :time="1631268060 - Date.now()">
+      <countdown :time="1631268060000 - Date.now()">
         <template
                 slot-scope="props">
           {{ props.days }} days, {{ props.hours }} hours, {{ props.minutes }} minutes,
