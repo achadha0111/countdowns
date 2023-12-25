@@ -3,8 +3,17 @@
   <div id="wrapper-div" :style="customBackground">
 
     <div id="app">
-      <h1> We see each other again in: </h1>
+      <h4> Seeing Anushree again in: </h4>
       <countdown :time="1631268060000 - Date.now()">
+        <template
+                slot-scope="props">
+          {{ props.days }} days, {{ props.hours }} hours, {{ props.minutes }} minutes,
+          {{props.seconds}} seconds
+        </template>
+      </countdown>
+
+      <h4> Finish Antenna Chapter: </h4>
+      <countdown :time="Math.round(Date("27-12-2023") / 1000) - Date.now()">
         <template
                 slot-scope="props">
           {{ props.days }} days, {{ props.hours }} hours, {{ props.minutes }} minutes,
